@@ -1,1 +1,39 @@
+Name of the student:Kalathuru Mamatha 
+Learning track:Salesforce developer
+Project name:Recruiting Assistance For The HR Managers - (DEV)
+Trailhead profile:https://www.salesforce.com/trailblazer/mamathakalathuru
+Developer org user name:mamatha2003@gdcproject.com
+Developer org password:Gayatri@123
+Position:Team leader
 
+Name Of The Student:Pilligundla kusumanjali
+Learning track:Salesforce developer
+Project:Recruiting Assistance for the HR Managers -(dev)
+Trailhead profile:https://www.salesforce.com/trailblazer/pilligundlakusumanjali
+Developer org username:pkusumanjali00@gdcproject.com
+Password:Gayatri@123
+Position:Team member
+
+Name of the student:kuppam vasanthi 
+Learning track:Salesforce developer
+Project name:Recruiting Assistance For The HR Managers - (DEV)
+Trailhead profile:https://www.salesforce.com/trailblazer/vasanthikuppam
+Developer org user name:kuppamvasanthi2004@gdcproject.com 
+Developer org password:Gayatri@123
+Position:team member
+
+Name of the student:Richitha Pamamjeri 
+Learning track:Salesforce developer
+Project name:Recruiting Assistance For The HR Managers - (DEV)
+Trailhead profile:https://www.salesforce.com/trailblazer/richithapamamjeri
+Developer org user name:pamamjeririchitha2003@gdcproject.com
+Developer org password:Gayatri@123 
+Position:team member
+
+Name of the student:Lavanya chitteti
+Learning track:Salesforce developer
+Project name:Recruiting Assistance For The HR Managers - (DEV)
+Trailhead profile:https://www.salesforce.com/trailblazer/chittetilavanya
+Developer org user name:chittetilavanya199@gdc.com
+Developer org password:Gayatri@123
+Position:team member
